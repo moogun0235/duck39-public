@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Products on Duck39</title>
-    <link>http://localhost:1313/products/</link>
-    <description>Recent content in Products on Duck39</description>
+    <title>Healths on Duck39</title>
+    <link>https://duck39.com/health/</link>
+    <description>Recent content in Healths on Duck39</description>
     <generator>Hugo -- 0.144.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Mar 2025 14:33:24 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://duck39.com/health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post02</title>
-      <link>http://localhost:1313/products/post02/</link>
+      <link>https://duck39.com/health/post02/</link>
       <pubDate>Sun, 02 Mar 2025 14:33:24 +0700</pubDate>
-      <guid>http://localhost:1313/products/post02/</guid>
+      <guid>https://duck39.com/health/post02/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.
 s
@@ -20,9 +20,9 @@ Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/
     </item>
     <item>
       <title>New copayment trend</title>
-      <link>http://localhost:1313/products/afterdeploy/</link>
+      <link>https://duck39.com/health/afterdeploy/</link>
       <pubDate>Sun, 02 Mar 2025 14:30:14 +0800</pubDate>
-      <guid>http://localhost:1313/products/afterdeploy/</guid>
+      <guid>https://duck39.com/health/afterdeploy/</guid>
       <description>&lt;p&gt;fgfdgfdgf&lt;/p&gt;
 &lt;p&gt;dsfdsfsdfdsfsd&lt;/p&gt;</description>
     </item>
