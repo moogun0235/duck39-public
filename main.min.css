@@ -1516,9 +1516,6 @@
   .nav-wrapper {
     background: var(--bg);
   }
-.dark .nav-wrapper {
-  background-color: var(--color-black);
-}
   .open {
     overflow: hidden;
   }
