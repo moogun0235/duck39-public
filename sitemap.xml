@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://duck39.com/posts/test03/</loc>
+    <lastmod>2025-03-02T15:01:12+07:00</lastmod>
+  </url><url>
+    <loc>https://duck39.com/</loc>
+    <lastmod>2025-03-02T15:01:12+07:00</lastmod>
+  </url><url>
+    <loc>https://duck39.com/posts/</loc>
+    <lastmod>2025-03-02T15:01:12+07:00</lastmod>
+  </url><url>
+    <loc>https://duck39.com/posts/test02/</loc>
+    <lastmod>2025-03-02T15:00:53+07:00</lastmod>
+  </url><url>
+    <loc>https://duck39.com/products/post02/</loc>
+    <lastmod>2025-03-02T14:33:24+07:00</lastmod>
+  </url><url>
+    <loc>https://duck39.com/products/</loc>
+    <lastmod>2025-03-02T14:33:24+07:00</lastmod>
+  </url><url>
+    <loc>https://duck39.com/posts/my-first-post/</loc>
+    <lastmod>2025-03-02T14:30:14+07:00</lastmod>
+  </url><url>
+    <loc>https://duck39.com/categories/</loc>
+  </url><url>
+    <loc>https://duck39.com/tags/</loc>
+  </url>
+</urlset>
