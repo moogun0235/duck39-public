@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Trendings on Duck39</title>
-    <link>https://duck39.com/trending/</link>
-    <description>Recent content in Trendings on Duck39</description>
+    <title>Travel on Duck39</title>
+    <link>https://duck39.com/tags/travel/</link>
+    <description>Recent content in Travel on Duck39</description>
     <generator>Hugo -- 0.144.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Mar 2025 11:27:24 +0700</lastBuildDate>
-    <atom:link href="https://duck39.com/trending/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://duck39.com/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>เที่ยวแบบคน Gen Y: ปริ้นทุกอย่างก่อนออกเดินทาง ดีแบบที่คาดไม่ถึง</title>
       <link>https://duck39.com/trending/gen-y-travel-back-up-plan/</link>
@@ -34,13 +34,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;เผื่อเน็ตไม่ดี แบตมือถือหมดไง😂&amp;mdash;@What the d(f)uck&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;เห็นแล้วก็ต้องบอกว่า เอออ&amp;hellip;ประโยชน์เยอะกว่าที่คิดมากๆ แบบบางเรื่องเราก็ไม่ได้นึกมาก่อน นอกจากนั้นคลิปนี้ยังถูกแชร์ไปใน X app ด้วย ซึ่งมีคนเข้ามาแสดงความคิดเห็นถึงประโยชน์ของการปริ้นท์เอกสารต่างๆ ไปต่างประเทศไว้ แบบมีประโยชน์มากๆ โดยเฉพาะหากใครที่&lt;strong&gt;เที่ยวคนเดียว&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ประกันแบบ Copayment ไม่ได้แย่อย่างที่คิด?</title>
-      <link>https://duck39.com/trending/copayment-debate/</link>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://duck39.com/trending/copayment-debate/</guid>
-      <description>ประกันแบบ Copayment คืออะไร ถกเถียงกันเรื่องประกันสุขภาพแบบ Copayment ว่าดีหรือไม่ดีอย่างไร ใครได้ใครเสีย</description>
     </item>
   </channel>
 </rss>
